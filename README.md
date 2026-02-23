@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://images-ext-1.discordapp.net/external/A4tbJyXcVfiZaK0WGdi7aVChegRJCs2OBLuCVK6-lP4/%3Fsize%3D2048/https/cdn.discordapp.com/banners/1357569800884326564/248f05b8979c3930f302b41b880672f3.png?format=webp&quality=lossless" height="150" alt="stats graph"  />
-  <img src="https://images-ext-1.discordapp.net/external/_a_Y29RAP6K5iUbN2MH8EtN4KxJgoZiLmyKcaKe4LHY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1357569800884326564/429c34b8f27c6b0fedb5809fcbb82ceb.png?format=webp&quality=lossless&width=300&height=300" height="150" alt="languages graph"  />
+  <img src="https://cdn.discordapp.com/attachments/1386415058661146734/1447227268291231847/standard.gif?ex=699c5e6c&is=699b0cec&hm=192570511d8eefd9cdefe5efc03d299ce9b918f6f1bfcff9a5983502b68c9651&animated=true" height="150" alt="languages graph"  />
 </div>
 
 ###
