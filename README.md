@@ -55,11 +55,11 @@ i stared into the abyss and forgot who i became.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nejizzuki&show_icons=true&theme=dark&bg_color=0c0c0c&title_color=a855f7&icon_color=a855f7&text_color=666666&border_color=1a1a1a&hide_border=false&hide_title=true&hide_rank=true&card_width=400" width="420"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nejizzuki&show_icons=true&theme=dark&bg_color=0c0c0c&title_color=a855f7&icon_color=a855f7&text_color=666666&border_color=1a1a1a&hide_border=false&hide_title=true&hide_rank=true&card_width=400" width="420"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejizzuki&layout=compact&theme=dark&bg_color=0c0c0c&title_color=a855f7&text_color=666666&border_color=1a1a1a&hide_border=false&hide_title=true&card_width=300" width="320"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nejizzuki&layout=compact&theme=dark&bg_color=0c0c0c&title_color=a855f7&text_color=666666&border_color=1a1a1a&hide_border=false&hide_title=true&card_width=300" width="320"/>
 
 <br><br>
 
