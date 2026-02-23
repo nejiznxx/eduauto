@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://images-ext-1.discordapp.net/external/_a_Y29RAP6K5iUbN2MH8EtN4KxJgoZiLmyKcaKe4LHY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1357569800884326564/429c34b8f27c6b0fedb5809fcbb82ceb.png?format=webp&quality=lossless&width=300&height=300" height="150" alt="languages graph"  />
 </div>
 
 ###
