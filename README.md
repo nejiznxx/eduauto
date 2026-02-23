@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/kbx6k_ArP4-gC0IFdtzv451VJAqvHT5mEp__oeYBA_k/%3Fsize%3D1024/https/cdn.discordapp.com/guilds/1357569800884326564/users/1291064098741555273/avatars/f0aff27c6ed89b36eb258b5b4ff83750.png?format=webp&quality=lossless" height="150" alt="stats graph"  />
+  <img src="https://images-ext-1.discordapp.net/external/A4tbJyXcVfiZaK0WGdi7aVChegRJCs2OBLuCVK6-lP4/%3Fsize%3D2048/https/cdn.discordapp.com/banners/1357569800884326564/248f05b8979c3930f302b41b880672f3.png?format=webp&quality=lossless" height="150" alt="stats graph"  />
   <img src="https://images-ext-1.discordapp.net/external/_a_Y29RAP6K5iUbN2MH8EtN4KxJgoZiLmyKcaKe4LHY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1357569800884326564/429c34b8f27c6b0fedb5809fcbb82ceb.png?format=webp&quality=lossless&width=300&height=300" height="150" alt="languages graph"  />
 </div>
 
