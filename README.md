@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://images-ext-1.discordapp.net/external/_a_Y29RAP6K5iUbN2MH8EtN4KxJgoZiLmyKcaKe4LHY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1357569800884326564/429c34b8f27c6b0fedb5809fcbb82ceb.png?format=webp&quality=lossless&width=968&height=968" alt="Snake animation" />
 
 ###
