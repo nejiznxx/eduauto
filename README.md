@@ -33,6 +33,4 @@
 
 <br clear="both">
 
-<img src="https://cdn.discordapp.com/attachments/1386415058661146734/1447227268291231847/standard.gif?ex=699c5e6c&is=699b0cec&hm=192570511d8eefd9cdefe5efc03d299ce9b918f6f1bfcff9a5983502b68c9651&animated=true" alt="Snake animation" />
-
 ###
