@@ -8,7 +8,7 @@
 
 <br><br>
 
-### `EduAuto`
+### `PreparaSP`
 
 <img src="https://img.shields.io/badge/status-ativo-7c3aed?style=flat-square&labelColor=0c0c0c" alt="status">
 <img src="https://img.shields.io/badge/plataforma-Sala_do_Futuro-7c3aed?style=flat-square&labelColor=0c0c0c" alt="plataforma">
@@ -17,8 +17,8 @@
 <br><br>
 
 ```
-automação educacional.
-feito por quem curte, pra quem precisa.
+simulados e quizzes no automático.
+sem esforço, sem enrolação.
 ```
 
 <br>
@@ -35,8 +35,8 @@ feito por quem curte, pra quem precisa.
 
 <br>
 
-> script de **Ed. Profissional** pro Sala do Futuro.  
-> roda direto no navegador, sem instalar nada.  
+> script pro **PreparaSP** — a plataforma de simulados e quizzes do Sala do Futuro.  
+> automatiza as questões pra você, roda direto no navegador, sem instalar nada.  
 > faz o que tem que fazer, sem complicar.
 
 <br>
