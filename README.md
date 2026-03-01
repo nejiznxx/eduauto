@@ -8,7 +8,7 @@
 
 <br><br>
 
-### `PreparaSP`
+### `EduAuto`
 
 <img src="https://img.shields.io/badge/status-ativo-7c3aed?style=flat-square&labelColor=0c0c0c" alt="status">
 <img src="https://img.shields.io/badge/plataforma-Sala_do_Futuro-7c3aed?style=flat-square&labelColor=0c0c0c" alt="plataforma">
