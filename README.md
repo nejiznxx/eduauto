@@ -11,19 +11,18 @@
 ### `EduAuto`
 
 <img src="https://img.shields.io/badge/status-ativo-7c3aed?style=flat-square&labelColor=0c0c0c" alt="status">
-<img src="https://img.shields.io/badge/plataforma-Sala_do_Futuro-7c3aed?style=flat-square&labelColor=0c0c0c" alt="plataforma">
 <img src="https://img.shields.io/badge/feito_por-nejizzuki-0c0c0c?style=flat-square&labelColor=0c0c0c&color=7c3aed" alt="autor">
 
 <br><br>
 
 ```
-simulados e quizzes no automático.
-sem esforço, sem enrolação.
+automatiza o que tem que automatizar.
+sem frescura.
 ```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
 
 <br><br>
 
@@ -35,9 +34,9 @@ sem esforço, sem enrolação.
 
 <br>
 
-> script pro **PreparaSP** — a plataforma de simulados e quizzes do Sala do Futuro.  
-> automatiza as questões pra você, roda direto no navegador, sem instalar nada.  
-> faz o que tem que fazer, sem complicar.
+> script pro **Sala do Futuro / PreparaSP**.
+> fiz porque eu gosto de fazer essas coisas, simples assim.
+> roda no console do navegador, sem instalar nada.
 
 <br>
 
@@ -45,21 +44,15 @@ sem esforço, sem enrolação.
 
 <br>
 
-## como usar
+## uso
 
 <br>
 
-**1.** Abre a plataforma do Sala do Futuro no navegador
+**1.** abre a plataforma no navegador
 
-**2.** Abre o console do navegador — `F12` → aba **Console**
+**2.** `F12` → **Console** → cola o script → `Enter`
 
-**3.** Cola o script e aperta `Enter`
-
-**4.** Pronto — o script cuida do resto
-
-<br>
-
-> **dica:** no Chrome/Edge você pode criar um bookmarklet colando o script como URL de um favorito, assim é só clicar.
+**3.** pronto
 
 <br>
 
@@ -67,16 +60,12 @@ sem esforço, sem enrolação.
 
 <br>
 
-## tecnologias
+## licença
 
 <br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Browser_API-0c0c0c?style=flat-square&logo=googlechrome&logoColor=white" />
-
-- **JavaScript** puro — sem dependências, sem instalação
-- roda via console do navegador ou bookmarklet
-- compatível com Chrome, Edge e Firefox
+MIT — pode usar, modificar, redistribuir, fazer o que quiser.
+só dá os créditos. não custa nada.
 
 <br>
 
@@ -84,11 +73,11 @@ sem esforço, sem enrolação.
 
 <br>
 
-## aviso
+## nota
 
 <br>
 
-> uso educacional. use com responsabilidade.
+> tinha um doentezinho achando que eu copiei o marcos, então já que ele desofuscaria pra "provar um ponto" que nem existe eu já soltei assim mesmo, é cagado mas funciona, e de nada snow, agora você pode kibar meu script igual você fez com vários outros antigamente
 
 <br>
 
@@ -106,7 +95,7 @@ sem esforço, sem enrolação.
 
 <br><br>
 
-<sub>with 💜 by <b>nejizzuki</b></sub>
+<sub>by <b>nejizzuki</b></sub>
 
 <br>
 
