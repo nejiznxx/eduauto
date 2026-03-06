@@ -77,7 +77,7 @@ só dá os créditos. não custa nada.
 
 <br>
 
-> tinha um doentezinho achando que eu copiei o marcos, então já que ele desofuscaria pra "provar um ponto" que nem existe eu já soltei assim mesmo, é cagado mas funciona, e de nada snow, agora você pode kibar meu script igual você fez com vários outros antigamente
+> hi bro
 
 <br>
 
